@@ -1,6 +1,6 @@
 {
 	"name": "Guess a Number Game",
-	"description": "A very simple mobile app game I built with react native where user can guess a number until it's same with the computers own",
+	"description": "A very simple mobile app game built with react native where user can guess a number until it's same with the computers own",
 	"keywords": [
 		"react.js",
 		"react native"
